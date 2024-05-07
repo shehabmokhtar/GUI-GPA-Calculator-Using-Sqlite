@@ -1,0 +1,52 @@
+D:\My Projects\C#\Final-Project\Final-Project\Final-Project\bin\Debug\net6.0-windows\Final-Project.exe
+D:\My Projects\C#\Final-Project\Final-Project\Final-Project\bin\Debug\net6.0-windows\Final-Project.deps.json
+D:\My Projects\C#\Final-Project\Final-Project\Final-Project\bin\Debug\net6.0-windows\Final-Project.runtimeconfig.json
+D:\My Projects\C#\Final-Project\Final-Project\Final-Project\bin\Debug\net6.0-windows\Final-Project.dll
+D:\My Projects\C#\Final-Project\Final-Project\Final-Project\bin\Debug\net6.0-windows\Final-Project.pdb
+D:\My Projects\C#\Final-Project\Final-Project\Final-Project\obj\Debug\net6.0-windows\Final-Project.csproj.AssemblyReference.cache
+D:\My Projects\C#\Final-Project\Final-Project\Final-Project\obj\Debug\net6.0-windows\Final_Project.Properties.Resources.resources
+D:\My Projects\C#\Final-Project\Final-Project\Final-Project\obj\Debug\net6.0-windows\Final-Project.csproj.GenerateResource.cache
+D:\My Projects\C#\Final-Project\Final-Project\Final-Project\obj\Debug\net6.0-windows\Final-Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Projects\C#\Final-Project\Final-Project\Final-Project\obj\Debug\net6.0-windows\Final-Project.AssemblyInfoInputs.cache
+D:\My Projects\C#\Final-Project\Final-Project\Final-Project\obj\Debug\net6.0-windows\Final-Project.AssemblyInfo.cs
+D:\My Projects\C#\Final-Project\Final-Project\Final-Project\obj\Debug\net6.0-windows\Final-Project.csproj.CoreCompileInputs.cache
+D:\My Projects\C#\Final-Project\Final-Project\Final-Project\obj\Debug\net6.0-windows\Final-Project.dll
+D:\My Projects\C#\Final-Project\Final-Project\Final-Project\obj\Debug\net6.0-windows\refint\Final-Project.dll
+D:\My Projects\C#\Final-Project\Final-Project\Final-Project\obj\Debug\net6.0-windows\Final-Project.pdb
+D:\My Projects\C#\Final-Project\Final-Project\Final-Project\obj\Debug\net6.0-windows\Final-Project.genruntimeconfig.cache
+D:\My Projects\C#\Final-Project\Final-Project\Final-Project\obj\Debug\net6.0-windows\ref\Final-Project.dll
+D:\My Projects\C#\Final-Project\Final-Project\Final-Project\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+D:\My Projects\C#\Final-Project\Final-Project\Final-Project\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+D:\My Projects\C#\Final-Project\Final-Project\Final-Project\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+D:\My Projects\C#\Final-Project\Final-Project\Final-Project\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+D:\My Projects\C#\Final-Project\Final-Project\Final-Project\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+D:\My Projects\C#\Final-Project\Final-Project\Final-Project\obj\Debug\net6.0-windows\Final_Project.Form2.resources
+D:\My Projects\C#\Final-Project\Final-Project\Final-Project\obj\Debug\net6.0-windows\Final-Project.csproj.CopyComplete
+D:\My Projects\C#\Final-Project\Final-Project\Final-Project\obj\Debug\net6.0-windows\Final_Project.Form1.resources
+D:\My Projects\C#\Final-Project\Final-Project\Final-Project\obj\Debug\net6.0-windows\Final_Project.Form3.resources
+D:\College\AY 2\S2\OOP II\Final Project (OOP)\Final-Project\Final-Project\Final-Project\bin\Debug\net6.0-windows\Final-Project.exe
+D:\College\AY 2\S2\OOP II\Final Project (OOP)\Final-Project\Final-Project\Final-Project\bin\Debug\net6.0-windows\Final-Project.deps.json
+D:\College\AY 2\S2\OOP II\Final Project (OOP)\Final-Project\Final-Project\Final-Project\bin\Debug\net6.0-windows\Final-Project.runtimeconfig.json
+D:\College\AY 2\S2\OOP II\Final Project (OOP)\Final-Project\Final-Project\Final-Project\bin\Debug\net6.0-windows\Final-Project.dll
+D:\College\AY 2\S2\OOP II\Final Project (OOP)\Final-Project\Final-Project\Final-Project\bin\Debug\net6.0-windows\Final-Project.pdb
+D:\College\AY 2\S2\OOP II\Final Project (OOP)\Final-Project\Final-Project\Final-Project\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+D:\College\AY 2\S2\OOP II\Final Project (OOP)\Final-Project\Final-Project\Final-Project\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+D:\College\AY 2\S2\OOP II\Final Project (OOP)\Final-Project\Final-Project\Final-Project\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+D:\College\AY 2\S2\OOP II\Final Project (OOP)\Final-Project\Final-Project\Final-Project\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+D:\College\AY 2\S2\OOP II\Final Project (OOP)\Final-Project\Final-Project\Final-Project\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+D:\College\AY 2\S2\OOP II\Final Project (OOP)\Final-Project\Final-Project\Final-Project\obj\Debug\net6.0-windows\Final-Project.csproj.AssemblyReference.cache
+D:\College\AY 2\S2\OOP II\Final Project (OOP)\Final-Project\Final-Project\Final-Project\obj\Debug\net6.0-windows\Final_Project.Form1.resources
+D:\College\AY 2\S2\OOP II\Final Project (OOP)\Final-Project\Final-Project\Final-Project\obj\Debug\net6.0-windows\Final_Project.Form2.resources
+D:\College\AY 2\S2\OOP II\Final Project (OOP)\Final-Project\Final-Project\Final-Project\obj\Debug\net6.0-windows\Final_Project.Form3.resources
+D:\College\AY 2\S2\OOP II\Final Project (OOP)\Final-Project\Final-Project\Final-Project\obj\Debug\net6.0-windows\Final_Project.Properties.Resources.resources
+D:\College\AY 2\S2\OOP II\Final Project (OOP)\Final-Project\Final-Project\Final-Project\obj\Debug\net6.0-windows\Final-Project.csproj.GenerateResource.cache
+D:\College\AY 2\S2\OOP II\Final Project (OOP)\Final-Project\Final-Project\Final-Project\obj\Debug\net6.0-windows\Final-Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\College\AY 2\S2\OOP II\Final Project (OOP)\Final-Project\Final-Project\Final-Project\obj\Debug\net6.0-windows\Final-Project.AssemblyInfoInputs.cache
+D:\College\AY 2\S2\OOP II\Final Project (OOP)\Final-Project\Final-Project\Final-Project\obj\Debug\net6.0-windows\Final-Project.AssemblyInfo.cs
+D:\College\AY 2\S2\OOP II\Final Project (OOP)\Final-Project\Final-Project\Final-Project\obj\Debug\net6.0-windows\Final-Project.csproj.CoreCompileInputs.cache
+D:\College\AY 2\S2\OOP II\Final Project (OOP)\Final-Project\Final-Project\Final-Project\obj\Debug\net6.0-windows\Final-Project.csproj.CopyComplete
+D:\College\AY 2\S2\OOP II\Final Project (OOP)\Final-Project\Final-Project\Final-Project\obj\Debug\net6.0-windows\Final-Project.dll
+D:\College\AY 2\S2\OOP II\Final Project (OOP)\Final-Project\Final-Project\Final-Project\obj\Debug\net6.0-windows\refint\Final-Project.dll
+D:\College\AY 2\S2\OOP II\Final Project (OOP)\Final-Project\Final-Project\Final-Project\obj\Debug\net6.0-windows\Final-Project.pdb
+D:\College\AY 2\S2\OOP II\Final Project (OOP)\Final-Project\Final-Project\Final-Project\obj\Debug\net6.0-windows\Final-Project.genruntimeconfig.cache
+D:\College\AY 2\S2\OOP II\Final Project (OOP)\Final-Project\Final-Project\Final-Project\obj\Debug\net6.0-windows\ref\Final-Project.dll
